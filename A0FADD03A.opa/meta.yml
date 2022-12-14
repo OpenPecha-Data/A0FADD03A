@@ -1,0 +1,20 @@
+id: A0FADD03A
+title: Toh_270-The_Seven_Buddhas-v2
+type: translation
+pechas:
+- IB500CBBA
+- I5356BB26
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-068-004
+  eft-text-version: 1.1.8 2020
+  title: Toh_270-The_Seven_Buddhas-v2
+alignment_to_base:
+  IB500CBBA/226A: DCEA
+  I5356BB26/E6CE: DCEA
